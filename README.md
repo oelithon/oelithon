@@ -1,5 +1,4 @@
 ## Olá eu sou o Elithon Silva, estudante de desenvolvimento web full stack na Trybe.
-
 <div align="center">
   <a href="https://github.com/oelithon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oelithon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
