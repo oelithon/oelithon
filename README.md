@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Elithon, atualmente sou estudante de desenvolvimento web na Trybe.
+## Olá! Eu me chamo Elithon Silva, boas vindas ao meu portfólio de códigos.
 
 <div align="center">
   <a href="https://github.com/oelithon">
