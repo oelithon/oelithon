@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Elithon Silva, boas vindas ao meu portfólio de códigos.
+## Olá! Eu me chamo Elithon Silva, boas vindas ao meu GitHub.
 
 <div align="center">
   <a href="https://github.com/oelithon">
