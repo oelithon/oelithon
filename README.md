@@ -1,5 +1,7 @@
+<h2 align="center">Olá! Eu me chamo Elithon Silva, boas vindas ao meu GitHub.</h2>
+
 <div align="center">
-  <h2>Olá! Eu me chamo Elithon Silva, boas vindas ao meu GitHub.</h2>
+  <br>
   <a href="https://github.com/oelithon">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oelithon&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oelithon&layout=compact&langs_count=7&theme=github_dark"/>
@@ -8,7 +10,6 @@
   ##
   
 <div style="display: inline_block">
-  <br>
     <img align="center" alt="Icon-Git" src="https://icongr.am/devicon/git-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-HTML" src="https://icongr.am/devicon/html5-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-CSS" src="https://icongr.am/devicon/css3-original.svg?size=27&color=currentColor">
@@ -20,7 +21,8 @@
     <img align="center" alt="Icon-Sequelize" src="https://icongr.am/devicon/sequelize-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-Heroku" src="https://icongr.am/devicon/heroku-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-TypeScript" src="https://icongr.am/devicon/typescript-original.svg?size=27&color=currentColor">
-</div>  
+</div>
+
 <div>
   <br>
     <a href = "mailto:elithonsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
