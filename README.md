@@ -15,7 +15,7 @@
   
   ##
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
   <br>
     <img align="center" alt="Icon-Git" src="https://icongr.am/devicon/git-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-HTML" src="https://icongr.am/devicon/html5-original.svg?size=27&color=currentColor">
@@ -33,7 +33,7 @@
     <img align="center" alt="Icon-TypeScript" src="https://icongr.am/devicon/typescript-original.svg?size=27&color=currentColor">
 </div>
 
-<div align="center">
+<div>
   <br>
     <a href = "mailto:elithonsilva@gmail.com"><img height="25" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--     <a href="https://instagram.com/oelithon"><img height="25" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
