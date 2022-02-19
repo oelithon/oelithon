@@ -22,6 +22,9 @@
     <img align="center" alt="Icon-CSS" src="https://icongr.am/devicon/css3-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-React" src="https://icongr.am/devicon/react-original.svg?size=27&color=currentColor">
+    <img align="center" alt="Icon-Redux" height="32" src="https://redux.js.org/img/redux.svg">
+    <img align="center" alt="Icon-Jest" height="25" src="https://user-images.githubusercontent.com/85764731/154803983-010a6f92-0d75-4351-a453-4ecdfa8d0da7.png">
+    <img align="center" alt="Icon-Chai" height="27" src="https://www.chaijs.com/img/chai-logo-small.png">
     <img align="center" alt="Icon-Docker" src="https://icongr.am/devicon/docker-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-MySQL" src="https://icongr.am/devicon/mysql-original.svg?size=27&color=currentColor">
     <img align="center" alt="Icon-Node.js" src="https://icongr.am/devicon/nodejs-original.svg?size=27&color=currentColor">
