@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Eu me chamo Elithon Silva, boas vindas ao meu GitHub.</h2>
+<h2 align="center">Olá! Eu me chamo Elithon, tenho 26 anos e moro em Trizidela do Vale, interior do Maranhão. Boas vindas ao meu GitHub.</h2>
 
 <div align="justify">
   <p>Atualmente sou estudante de desenvolvimento web full stack na <a href="https://www.betrybe.com/" target="_blank" rel="noopener noreferrer">Trybe</a> e também proprietário da <a href="https://www.instagram.com/resoluta.tec/" target="_blank" rel="noopener noreferrer">Resoluta</a>, onde faço prestações de serviços como manutenção de computadores, rede de computadores, suporte e assessoria para clientes em geral nas cidades de Trizidela do Vale e Pedreiras, Maranhão.</p>
