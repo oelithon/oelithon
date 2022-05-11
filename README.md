@@ -1,7 +1,8 @@
 <h2 align="center">Olá! Eu me chamo Elithon, tenho 26 anos e moro em Trizidela do Vale, interior do Maranhão. Boas vindas ao meu GitHub.</h2>
 
 <div align="justify">
-  <p>Atualmente sou estudante de desenvolvimento web full stack na <a href="https://www.betrybe.com/" target="_blank" rel="noopener noreferrer">Trybe</a> e também proprietário da <a href="https://www.instagram.com/resoluta.tec/" target="_blank" rel="noopener noreferrer">Resoluta</a>, onde faço prestações de serviços como manutenção de computadores, rede de computadores, suporte e assessoria para clientes em geral nas cidades de Trizidela do Vale e Pedreiras, Maranhão.</p>
+  <p>Meu interesse por computação despertou por volta dos meus 15 anos, quando tive contato com a área através de cursos de informática. Mas foi em 2021 que consegui ingressar em uma escola de programação e iniciar uma jornada de construção da minha carreira como desenvolvedor web.</p>
+  <p>Em Julho deste ano, estarei me formando em desenvolvimento web full stack na <a href="https://www.betrybe.com/" target="_blank" rel="noopener noreferrer">Trybe</a>, a formação aborda fundamentos de desenvolvimento web, front-end, back-end, ciência da computação, engenharia de software, habilidades comportamentais e metodologias ágeis onde pude praticar os conteúdos desenvolvendo projetos, utilizando por exemplo, JavaScript, TypeScript, React, Docker, Node.js e outras bibliotecas, frameworks e testes.</p>
 </div>
 
   ##
