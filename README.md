@@ -1,10 +1,4 @@
-<h2 align="center">Olá! Eu me chamo Elithon, tenho 26 anos e moro em Trizidela do Vale, interior do Maranhão. Boas vindas ao meu GitHub.</h2>
-
-<div align="justify">
-  <p>Meu interesse por computação despertou por volta dos meus 15 anos, quando tive contato com a área através de cursos de informática. Mas foi em 2021 que consegui ingressar em uma escola de programação e iniciar uma jornada de construção da minha carreira como desenvolvedor web.</p>
-  <p>Em Julho deste ano, estarei me formando em desenvolvimento web full stack na <a href="https://www.betrybe.com/" target="_blank" rel="noopener noreferrer">Trybe</a>, a formação aborda fundamentos de desenvolvimento web, front-end, back-end, ciência da computação, engenharia de software, habilidades comportamentais e metodologias ágeis onde pude praticar os conteúdos desenvolvendo projetos, utilizando por exemplo, JavaScript, TypeScript, React, Docker, Node.js e outras bibliotecas, frameworks e testes.</p>
-  <p>Todos os projetos que desenvolvi durante o curso estão disponíveis aqui em meu GitHub.</p>
-</div>
+<h3 align="center">Olá! Eu me chamo Elithon, moro em Trizidela do Vale, interior do Maranhão. Boas vindas ao meu GitHub.</h3>
 
   ##
 
