@@ -1,4 +1,4 @@
-<h3 align="center">Olá! Eu me chamo Elithon, moro em Trizidela do Vale, interior do Maranhão. Boas vindas ao meu GitHub.</h3>
+<h3 align="center">Olá! Eu me chamo Elithon. Boas vindas ao meu GitHub.</h3>
 
   ##
 
